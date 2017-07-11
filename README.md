@@ -14,4 +14,5 @@ Recommendations:
 
 
 Contact Details:<br>
-[Dr. Todd Gary](https://www.linkedin.com/in/toddgary/)  "    "   [Damian Mingle](https://www.linkedin.com/in/damianrmingle/)
+[Dr. Todd Gary](https://www.linkedin.com/in/toddgary/) <br>
+[Damian Mingle](https://www.linkedin.com/in/damianrmingle/)
