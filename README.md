@@ -1,5 +1,5 @@
 # STEM-Think-Tank
-__Resources__
+Resources provided by Dr. Todd Gary and Damian Mingle.
 
 * Today's Session: <br>
   * [Download Rapid Miner Data Science Platform](https://rapidminer.com/)
@@ -11,3 +11,7 @@ Recommendations:
   * [Pandas: Numerical Analysis within Python](http://pandas.pydata.org/)<br>
 * Datasets<br>
   * [UCI Machine Learning Repositor](https://archive.ics.uci.edu/ml/datasets.html)
+
+
+Contact Details:
+[Dr. Todd Gary](https://www.linkedin.com/in/toddgary/)     [Damian Mingle](https://www.linkedin.com/in/damianrmingle/)
