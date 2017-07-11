@@ -13,5 +13,5 @@ Recommendations:
   * [UCI Machine Learning Repositor](https://archive.ics.uci.edu/ml/datasets.html)
 
 
-Contact Details:
-[Dr. Todd Gary](https://www.linkedin.com/in/toddgary/)     [Damian Mingle](https://www.linkedin.com/in/damianrmingle/)
+Contact Details:<br>
+[Dr. Todd Gary](https://www.linkedin.com/in/toddgary/)  "    "   [Damian Mingle](https://www.linkedin.com/in/damianrmingle/)
