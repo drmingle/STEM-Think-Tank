@@ -1,5 +1,5 @@
 # STEM-Think-Tank
-Resources
+__Resources__
 
 * Today's Session: <br>
   * [Download Rapid Miner Data Science Platform](https://rapidminer.com/)
