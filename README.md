@@ -11,7 +11,12 @@ Recommendations:
   * [Pandas: Numerical Analysis within Python](http://pandas.pydata.org/)<br>
 * Datasets<br>
   * [UCI Machine Learning Repositor](https://archive.ics.uci.edu/ml/datasets.html)
-
+* Write-ups:
+ * [Fighting Sepsis](https://www.wpchealthcare.com/wp-content/themes/png/files/mh-dnj-170120-fightingSepsis.pdf)
+ * [The Evolving Definition of Sepsis](http://medcraveonline.com/ICPJL/ICPJL-02-00063.pdf)
+* Data Science Challenges:
+ * [Kaggle](http://www.Kaggle.com)
+ 
 
 Contact Details:<br>
 [Dr. Todd Gary](https://www.linkedin.com/in/toddgary/) <br>
